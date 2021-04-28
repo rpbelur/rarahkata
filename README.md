@@ -1,2 +1,2 @@
-echo "# rarahkata" 
-echo "# test1"
+# RARAH Kata #
+
