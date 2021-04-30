@@ -7,5 +7,6 @@
 6. DB may be moved to the cloud following lift and shift.
 7. Initially daily report will be generated to reconcile number of filed tickets, no of assigned tickets
 8. Observability of the system is important - alerting mechanism is going to be added.
+9. ELK vs Graphana 
 
 
