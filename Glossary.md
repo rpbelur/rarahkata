@@ -6,5 +6,5 @@
 * **Manager** - Responsible for managing the complete system and Administrator, Customer and Experts. Responsible for generating reports.
 
 ## Systems ##
-* ** User Management System ** - Managers Customers, Experts, Administrator and Manager
+* **User Management System** - Managers Customers, Experts, Administrator and Manager
 
